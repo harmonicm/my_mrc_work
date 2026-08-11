@@ -1,0 +1,11 @@
+DEMfile         mahanadi.asc
+resroot         mahanadi_out
+dirroot         results
+sim_time        1728000
+initial_tstep   10
+massint         3600
+saveint         86400
+fpfric          0.06
+riverfile       mahanadi.river
+bdyfile         mahanadi.bdy
+acceleration
